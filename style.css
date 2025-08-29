@@ -1,1 +1,8 @@
+body {
+  text-align: center;
+  background-color: gainsboro;
+}
 
+.header {
+  color: rgb(43, 85, 43);
+}
